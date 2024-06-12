@@ -1,2 +1,2 @@
 hello from hello folder
-this line is added from "newBranch" branch 
+this line is added from "newBranch" branch .
